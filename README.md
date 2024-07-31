@@ -1,1 +1,1 @@
-# Computer-Vision-Based-Classroom-Attention-Monitoring
+# Computer Vision Based Hybrid Classroom Attention Monitoring
